@@ -9,7 +9,7 @@ Any Type Website Vulnerability Scanning &amp; Full Report Advanced Powerfull Too
 ```bash
 git clone https://github.com/chowdhuryvai/unified_web_security_scanner_powerfull_tools.git
 cd unified_web_security_scanner_powerfull_tools
-python3 unified_web_security_scanner_powerfull_tools.py [url]
+python3 unified_web_security_scanner_powerfull_tools.py
 ```
 
 
